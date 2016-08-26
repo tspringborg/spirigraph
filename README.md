@@ -1,1 +1,1 @@
-# spirigraph
+# spirograph
